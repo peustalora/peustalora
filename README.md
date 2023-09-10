@@ -1,2 +1,2 @@
-Currently learning java \n
+Currently learning java <br>
 Has some experience with skript (scripting language for minecraft)
